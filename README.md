@@ -8,10 +8,10 @@
 
 This event had five days, from Monday to Friday, with exclusive and free materials, separated into:
 - [x] "Towards the next level"
-- [o] "Unraveling Next.js"
-- [o] "Context and components"
-- [o] "Storage, SSR & Lambda"
-- [o] "Next level with React & Next level with React"
+- [] "Unraveling Next.js"
+- [] "Context and components"
+- [] "Storage, SSR & Lambda"
+- [] "Next level with React & Next level with React"
 
 ---
 ## 🚀 Technologies used
@@ -29,7 +29,8 @@ The project is being developed using the following technologies:
 
 ```bash
 # Getting Started with Create React App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+This project was bootstrapped with Create React App
+`https://github.com/facebook/create-react-app`
 
 # Run the server
 `yarn start`
