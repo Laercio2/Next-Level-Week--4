@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/Laercio2/Next-Level-Week-2/blob/master/banner.png">
+<img width="auto" src="https://github.com/Laercio2/Next-Level-Week-4/blob/main/banner.png">
 
 <h1 align="center">#Next Level Week, fourth edition, project "Move.it".</h1>
 
