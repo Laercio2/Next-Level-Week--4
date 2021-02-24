@@ -8,8 +8,8 @@
 
 This event had five days, from Monday to Friday, with exclusive and free materials, separated into:
 - [x] "Towards the next level"
-- [ ] "Unraveling Next.js"
-- [ ] "Context and components"
+- [x] "Unraveling Next.js"
+- [x] "Context and components"
 - [ ] "Storage, SSR & Lambda"
 - [ ] "Next level with React & Next level with React"
 
@@ -37,6 +37,10 @@ This project was bootstrapped with Create React App
 `yarn start`
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
+
+#Transition to Next.js
+Recreation of the project with Next.js
+`https://github.com/vercel/next.js`
 ```
 
 
