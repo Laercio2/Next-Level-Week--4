@@ -1,10 +1,32 @@
-<img width="auto" src="https://github.com/Laercio2/Next-Level-Week-4/blob/main/banner.png">
+<h1 align="center">
+    <img alt="Move.it" title="Move.it" src=".github/moveit.svg" />
+</h1>
 
 <h1 align="center">#Next Level Week, fourth edition, project "Move.it".</h1>
 
 **Move.it**, an open source project developed during Next Level Week # 4, which took place between 22/02 until 27/02, from the [Rocketseat](https://github.com/rocketseat) class, by the Rocketseat CTO, [Diego Fernandes](https://github.com/diego3g).
 
+<p align="center">
+  <a href="#-schedule">Schedule</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-deploy-the-project-at-vercel">How to deploy the project at vercel</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
+
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
+  
+  <img src="https://img.shields.io/github/forks/Laercio2/Next-Level-Week-4?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
+
+  <img src="https://img.shields.io/github/stars/Laercio2/Next-Level-Week-4?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
+</p>
+
+<br>
+
 ---
+## 📅 Schedule
 
 This event had five days, from Monday to Friday, with exclusive and free materials, separated into:
 - [x] "Towards the next level"
@@ -14,7 +36,7 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 - [x] "Next level with React & Next level with React"
 
 ---
-## 🚀 Technologies used
+## 🚀 Technologies
 
 The project is being developed using the following technologies:
 
@@ -26,7 +48,7 @@ The project is being developed using the following technologies:
 - Next.js
 ---
 
-## ⌨ How to run the project
+## ⌨ Getting started
 
 ```bash
 # Getting Started with Create React App
