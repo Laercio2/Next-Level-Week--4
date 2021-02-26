@@ -1,10 +1,11 @@
+<h1 align="center">#Next Level Week, fourth edition, project "Move.it".</h1>
+
+**Move.it**, an open source project developed during Next Level Week # 4, which took place between 22/02 until 27/02, from the [Rocketseat](https://github.com/rocketseat) class, by the Rocketseat CTO, [Diego Fernandes](https://github.com/diego3g).
+
 <h1 align="center">
     <img alt="Move.it" title="Move.it" src=".github/moveit.svg" />
 </h1>
 
-<h1 align="center">#Next Level Week, fourth edition, project "Move.it".</h1>
-
-**Move.it**, an open source project developed during Next Level Week # 4, which took place between 22/02 until 27/02, from the [Rocketseat](https://github.com/rocketseat) class, by the Rocketseat CTO, [Diego Fernandes](https://github.com/diego3g).
 
 <p align="center">
   <a href="#-schedule">Schedule</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
