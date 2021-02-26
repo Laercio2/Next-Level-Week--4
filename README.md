@@ -38,11 +38,30 @@ This project was bootstrapped with Create React App
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-#Transition to Next.js
+# Transition to Next.js
 Recreation of the project with Next.js
 `https://github.com/vercel/next.js`
 ```
 
+## 🏨 How to deploy the project at vercel
+
+```bash
+# Getting Started with installing vercel globally
+`yarn global add vercel`
+
+# Run vercel commands
+`yarn login`
+And in the project directory, execute the command `vercel` to start the application deployment
+```
+
+## 🔥 Preview
+
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-laercio2.vercel.app/)
+
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ---
 
