@@ -46,7 +46,7 @@ Recreation of the project with Next.js
 ## 🏨 How to deploy the project at vercel
 
 ```bash
-# Getting Started with installing vercel globally
+# Getting Started with installing vercel cli globally
 `yarn global add vercel`
 
 # Run vercel commands
