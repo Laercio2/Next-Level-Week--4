@@ -11,7 +11,7 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 - [x] "Unraveling Next.js"
 - [x] "Context and components"
 - [x] "Storage, SSR & Lambda"
-- [ ] "Next level with React & Next level with React"
+- [x] "Next level with React & Next level with React"
 
 ---
 ## 🚀 Technologies used
